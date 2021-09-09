@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31612.314
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPI", "MinimalAPI\MinimalAPI.csproj", "{01DCBB44-47B7-4303-8407-7B7CC803644D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalAPI", "MinimalAPI\MinimalAPI.csproj", "{01DCBB44-47B7-4303-8407-7B7CC803644D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPITweaked", "MinimalAPITweaked\MinimalAPITweaked.csproj", "{B4390340-239C-46A5-A839-EC4AFBB7DFBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalAPITweaked", "MinimalAPITweaked\MinimalAPITweaked.csproj", "{B4390340-239C-46A5-A839-EC4AFBB7DFBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularAPINET6", "RegularAPINET6\RegularAPINET6.csproj", "{3079B038-BD63-4A33-BD70-DDF1CBFB1F44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegularAPINET6", "RegularAPINET6\RegularAPINET6.csproj", "{3079B038-BD63-4A33-BD70-DDF1CBFB1F44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularAPINET5", "RegularAPINET5\RegularAPINET5.csproj", "{2512C29E-B472-4512-B374-B2E836C76531}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegularAPINET5", "RegularAPINET5\RegularAPINET5.csproj", "{2512C29E-B472-4512-B374-B2E836C76531}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPISample", "MinimalAPISample\MinimalAPISample.csproj", "{A0AF3630-1760-4F3D-9A41-1D9DA56DBB4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalAPISample", "MinimalAPISample\MinimalAPISample.csproj", "{A0AF3630-1760-4F3D-9A41-1D9DA56DBB4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceComparison", "PerformanceComparison\PerformanceComparison.csproj", "{C6A1C87E-4DC6-4668-AB93-4CBE2A5CE1EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PerformanceComparison", "PerformanceComparison\PerformanceComparison.csproj", "{C6A1C87E-4DC6-4668-AB93-4CBE2A5CE1EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldNET5", "HelloWorldNET5\HelloWorldNET5.csproj", "{F3B26F80-6CB8-4C97-811A-54DF461AB13A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{C6A1C87E-4DC6-4668-AB93-4CBE2A5CE1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6A1C87E-4DC6-4668-AB93-4CBE2A5CE1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6A1C87E-4DC6-4668-AB93-4CBE2A5CE1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B26F80-6CB8-4C97-811A-54DF461AB13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B26F80-6CB8-4C97-811A-54DF461AB13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B26F80-6CB8-4C97-811A-54DF461AB13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B26F80-6CB8-4C97-811A-54DF461AB13A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
