@@ -10,3 +10,7 @@ These four mentioned projects have pretty much the same logics and scope, consid
 ## Performance comparison
 
 Included on the solution, there's also a project using NBomber (available as a Nuget Package) to stress test the application and compare its results between each other.
+
+## Further information on Minimal APIs
+
+https://www.hanselman.com/blog/exploring-a-minimal-web-api-with-aspnet-core-6
