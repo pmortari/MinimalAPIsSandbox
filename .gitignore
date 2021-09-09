@@ -1,0 +1,13 @@
+﻿.vs/MinimalAPIs/DesignTimeBuild
+.vs/MinimalAPIs/v17
+MinimalAPI/bin
+MinimalAPI/obj
+MinimalAPISample/obj
+MinimalAPITweaked/bin
+MinimalAPITweaked/obj
+PerformanceComparison/bin
+RegularAPINET5/bin
+RegularAPINET6/bin
+RegularAPINET6/obj
+PerformanceComparison/obj
+RegularAPINET5/obj
