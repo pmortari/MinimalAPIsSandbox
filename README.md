@@ -13,6 +13,6 @@ Included on the solution, there's also a project using NBomber (available as a N
 
 ## Further information on Minimal APIs
 
-Scott Hanselman: https://www.hanselman.com/blog/exploring-a-minimal-web-api-with-aspnet-core-6
-.NET Core Tutorials: https://dotnetcoretutorials.com/2021/07/16/building-minimal-apis-in-net-6/
+Scott Hanselman: https://www.hanselman.com/blog/exploring-a-minimal-web-api-with-aspnet-core-6  
+.NET Core Tutorials: https://dotnetcoretutorials.com/2021/07/16/building-minimal-apis-in-net-6/  
 Nick Chapsas: https://www.youtube.com/watch?v=eRJFNGIsJEo - Special thanks in here, the kick-off for this sandbox and a few implementation ideas came from this material.
