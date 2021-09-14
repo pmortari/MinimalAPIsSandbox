@@ -1,4 +1,6 @@
 ﻿using MinimalAPITweaked.Models;
+using System;
+using System.Collections.Generic;
 
 namespace MinimalAPITweaked.Repositories;
 
@@ -24,10 +26,12 @@ public class PersonRepository : IPersonRepository
         _persons[person.Id] = person;
     }
 
+#nullable enable
     public Person? GetPersonById(Guid id)
     {
         return _persons.GetValueOrDefault(id);
     }
+#nullable disable
 
     public IReadOnlyCollection<Person> GetAllPersons()
     {

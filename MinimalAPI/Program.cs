@@ -1,3 +1,9 @@
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.DependencyInjection;
+using System;
+using System.Collections.Generic;
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddSingleton<PersonRepository>();
 

@@ -1,4 +1,6 @@
-﻿
+﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+
 namespace MinimalAPITweaked.EndpointDefinitions;
 public interface IEndpointDefinition
 {

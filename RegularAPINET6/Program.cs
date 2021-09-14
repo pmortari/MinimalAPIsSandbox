@@ -1,3 +1,6 @@
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 using RegularAPINET6.Repositories;
 using RegularAPINET6.Repositories.Interfaces;
 

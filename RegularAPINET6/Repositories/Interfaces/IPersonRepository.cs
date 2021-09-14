@@ -1,5 +1,6 @@
-﻿
-using RegularAPINET6.Models;
+﻿using RegularAPINET6.Models;
+using System;
+using System.Collections.Generic;
 
 namespace RegularAPINET6.Repositories.Interfaces;
 public interface IPersonRepository

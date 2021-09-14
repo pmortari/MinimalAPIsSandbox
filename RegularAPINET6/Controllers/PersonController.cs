@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RegularAPINET6.Models;
 using RegularAPINET6.Repositories.Interfaces;
+using System;
 
 namespace RegularAPINET6.Controllers;
 [ApiController]

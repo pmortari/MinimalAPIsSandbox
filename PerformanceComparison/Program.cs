@@ -1,6 +1,7 @@
 using NBomber.Contracts;
 using NBomber.CSharp;
 using NBomber.Plugins.Http.CSharp;
+using System;
 
 var httpFactory = HttpClientFactory.Create();
 

@@ -1,5 +1,10 @@
-﻿using MinimalAPITweaked.Models;
+﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.DependencyInjection;
+using MinimalAPITweaked.Models;
 using MinimalAPITweaked.Repositories;
+using System;
+using System.Collections.Generic;
 
 namespace MinimalAPITweaked.EndpointDefinitions;
 public class PersonEndpointDefinition : IEndpointDefinition
